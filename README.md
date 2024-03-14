@@ -1,7 +1,7 @@
 <p align="center">
-    <img alt="DevPost" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Projeto-FIlmes/main/screens/Screenshot01.png" width="30%">
-    <img alt="DevPost" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Projeto-FIlmes/main/screens/Screenshot02.png" width="30%">
-    <img alt="DevPost" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Projeto-FIlmes/main/screens/Screenshot03.png" width="30%">
+    <img alt="Filmaria" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Projeto-FIlmes/main/screens/Screenshot01.png" width="30%">
+    <img alt="Filmaria" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Projeto-FIlmes/main/screens/Screenshot02.png" width="30%">
+    <img alt="Filmaria" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Projeto-FIlmes/main/screens/Screenshot03.png" width="30%">
 </p>
 
 ## Filmaria
