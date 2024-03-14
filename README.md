@@ -18,7 +18,7 @@ O projeto foi desenvolvido em Vue.js utilizando o [Visual Studio Code](https://c
 
 ## Hospedagem
 
-O site Filmaria pode ser acessado [aqui](filmaria-curso-vue.netlify.app).
+O site Filmaria pode ser acessado [aqui](https://filmaria-curso-vue.netlify.app/).
 
 ## Dependências Utilizadas
 
